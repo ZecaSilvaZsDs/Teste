@@ -1,2 +1,2 @@
 Teste de pull [ x ]
-Teste de push [   ]
+Teste de push [ x ]
