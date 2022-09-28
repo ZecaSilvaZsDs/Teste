@@ -1,2 +1,5 @@
-Teste de pull [ x ]
-Teste de push [ x ]
+Link do cronograma:
+https://docs.google.com/document/d/1k-DLkepHQLV6UTJQY61c7xh0pxIu56LMsXWOENoRs-A/edit?usp=drivesdk
+
+Link do formulário da persona:
+https://docs.google.com/forms/d/1u7SLOUXmAug66KDZuqRNWkwFDDPFAF7bQTS8A9NOplo/edit#responses
